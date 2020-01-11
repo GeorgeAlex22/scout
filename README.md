@@ -1,3 +1,3 @@
 # scout
 
-Work on the CMS data scout project under Konstantinos Theofilatos's supervision.
+Work on the CMS 40MHz scout project under Konstantinos Theofilatos's supervision.
