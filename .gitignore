@@ -2,3 +2,5 @@
 *.csv
 *.gz
 data
+*.pdf
+*.zip
