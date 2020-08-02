@@ -2,4 +2,6 @@
 *.csv
 *.gz
 data
+*.pdf
+*.zip
 runCheck
